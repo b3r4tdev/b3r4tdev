@@ -52,7 +52,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=b3r4tdev&bg_color=0d0d12&color=D4D4D8&line=E81240&point=FF5C7C&area=true&area_color=3D0D22&hide_border=true" width="95%" alt="Katkı aktivite grafiğim" />
 </div>
 
-<!-- SNAKE_BURAYA -->
+## 🐍 Katkı Yılanı
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/b3r4tdev/b3r4tdev/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/b3r4tdev/b3r4tdev/output/snake.svg" alt="Katkı yılanı animasyonu" width="95%" />
+  </picture>
+</div>
 
 ## 🛠️ Kullandığım Teknolojiler
 
